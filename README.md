@@ -7,7 +7,7 @@ Simple game where you dodge projectiles, made with Lua and Löve2D.
 You need git and [Löve2D](https://love2d.org/) installed.
 
 ```sh
-$ git clone https://github.com/vanillaiice/dodge
+$ git clone https://github.com/vanillaiice/dodge-love2d
 $ cd dodge
 $ love .
 # or
